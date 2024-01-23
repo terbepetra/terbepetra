@@ -7,7 +7,7 @@ I'm a DevOps Engineer 💻 who is motivated 📈 to acquire new skills ✨  </br
  ### Don't forget to say hi  ⤵️
 
 [![Linkedin Badge](https://img.shields.io/badge/-PetraTerbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petra-terbe/)](https://www.linkedin.com/in/petra-terbe/)
-[![Gmail Badge](https://img.shields.io/badge/-terbepetra@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terbepetra@gmail.com)](mailto:terbepetra@gmail.com)
+
 
 
 
